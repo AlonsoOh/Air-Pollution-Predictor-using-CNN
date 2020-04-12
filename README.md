@@ -68,7 +68,7 @@
     
     핵심기여역량 : 
   
-  <img src="https://user-images.githubusercontent.com/21076531/79040822-394a6600-7c26-11ea-9474-803fab61c231.jpg" width="40%" height="30%" title="천명철" alt="RubberDuck"></img>
+  <img src="https://user-images.githubusercontent.com/50190325/79058664-c84d9180-7cab-11ea-8eb6-ba67767aebd8.jpg" width="40%" height="30%" title="천명철" alt="RubberDuck"></img>
     
     
 
