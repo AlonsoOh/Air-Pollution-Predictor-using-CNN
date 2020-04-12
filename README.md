@@ -56,11 +56,11 @@
     
   오새암
   
-    역할 : 
+    역할 : 소스 개발, 아이디어 제안, 장치 설계
     
-    핵심기여역량 : 
+    핵심기여역량 : 장치 설계, 소스 
     
-    사진
+    <img src="file:///C:/Users/jrboy/Downloads/오새암.jpg" width="120px" height="160px" title="오새암" alt="오새암"></img>
     
   천명철
   
