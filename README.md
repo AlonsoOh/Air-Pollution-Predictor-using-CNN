@@ -60,7 +60,7 @@
     
     핵심기여역량 : 장치 설계, 소스 
     
-    <img src="https://user-images.githubusercontent.com/50190325/79058664-c84d9180-7cab-11ea-8eb6-ba67767aebd8.jpg" width="120px" height="160px" title="오새암" alt="오새암"></img>
+    사진
     
   천명철
   
